@@ -1,0 +1,1 @@
+https://www.sqlshack.com/how-to-implement-error-handling-in-sql-server/

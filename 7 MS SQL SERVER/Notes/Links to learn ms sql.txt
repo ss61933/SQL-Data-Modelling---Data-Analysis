@@ -1,0 +1,1 @@
+https://www.dotnettricks.com/learn/sqlserver/sql-server-exception-handling-by-try-catch#:~:text=To%20handle%20exception%20in%20Sql,to%20the%20corresponding%20CATCH%20blocks.
